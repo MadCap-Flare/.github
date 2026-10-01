@@ -4,11 +4,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy_EJxS0Bg31sMs_izWsViQ_WBP3x3nODxZA&s" alt="MadCap Flare Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://madcap-flare.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_MadCap_Flare-blue?style=for-the-badge&logo=github" alt="Get MadCap Flare"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://bettymartinx844.github.io/.github/MadCap-Flare)
 
 ---
 
